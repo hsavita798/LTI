@@ -1,0 +1,6 @@
+Flask
+datetime
+openai
+mangum
+werkzeug
+mysql-connector-python
